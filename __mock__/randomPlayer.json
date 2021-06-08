@@ -1,0 +1,38 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Miss",
+    "first": "Melinda",
+    "last": "Øvrelid"
+  },
+  "location": {
+    "street": {
+      "number": 5775,
+      "name": "Nordre Dals vei"
+    },
+    "city": "Sjøholt",
+    "state": "Telemark",
+    "country": "Norway",
+    "postcode": "3727",
+    "coordinates": {
+      "latitude": "49.5730",
+      "longitude": "77.9183"
+    },
+    "timezone": {
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
+    }
+  },
+  "email": "melinda.ovrelid@example.com",
+  "registered": {
+    "date": "2014-09-10T07:53:16.124Z",
+    "age": 7
+  },
+  "phone": "72349130",
+  "cell": "91535332",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/81.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/81.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/81.jpg"
+  }
+}
